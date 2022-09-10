@@ -2,4 +2,4 @@
 
 😉 Hi, I'm Hedi. Hope you're well!
 
-#### These files are demonstrations of what I have learned from the Applied Statistics Undergraduate Program at U of T.🎖
+#### These files are demonstrations of what I have learned from the Applied Statistics Undergraduate Program at university.🎖
