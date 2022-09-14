@@ -14,7 +14,7 @@
 ***Course: Regression Analysis***
 
 **Skills and Tools:**
-`Simple Linear Regression`, `Model Building`, `Confidence Interval`, `t-distribution`, `F-distribution`, `Statistical Inference`, `Hypothesis Testing`, `t-test`, `F-test`, `P-value`, `Least square estimators`, `Simple coefficient of determination: R^2`, `Simple correlation coefficient: r`, `Sum of squares` 
+`Simple Linear Regression`, `Model Building`, `Confidence Interval`, `t-distribution`, `F-distribution`, `Statistical Inference`, `Hypothesis Testing`, `t-test`, `F-test`, `P-value`, `Least square estimators`, `Simple coefficient of determination: R^2`, `Simple correlation coefficient: r`, `Sum of squares`, `Point estimators`, `Point predictions`
 
 ***SAS Problem: Q2 (page 8-18)***
 <br>
@@ -25,7 +25,7 @@
 ***Course: Regression Analysis***
 
 **Skills and Tools:**
-
+`Multiple Linear Regression`, `Model Building`,`Durbin-Watson test`, `Autocorrelation`, `Z-score`, `Matrix form`, `Vectors`,  `Confidence Interval`, `t-distribution`, `F-distribution`, `Statistical Inference`, `Hypothesis Testing`, `t-test`, `F-test`, `P-value`, `Least square estimators`, `Multiple coefficient of determination: R^2`, `Adjusted R^2`, `Multiple correlation coefficient: R`, `Sum of squares`, `Point estimators`, `Point predictions`, `Model Adequacy Checking`, `Inference Assumptions`
 
 ***SAS Problem: Q3 (page 7-17)***
 <br>
@@ -36,7 +36,7 @@
 ***Course: Regression Analysis***
 
 **Skills and Tools:**
-
+`Multiple Linear Regression`, `Model Building`,`Multicollinearity`, `Analysis of Variance`, `C-statistics`, `MSres`, `SSres`, `SST`, `SSR`, `MSR`, `Confidence Interval`, `t-distribution`, `F-distribution`, `Statistical Inference`, `Hypothesis Testing`, `t-test`, `F-test`, `P-value`, `Least square estimators`, `Multiple coefficient of determination: R^2`, `Adjusted R^2`, `Multiple correlation coefficient: R`, `Sum of squares`, `Point estimators`, `Point predictions`, `Model Adequacy Checking`, `Inference Assumptions`, `residuals`, `Diagnostics for Leverage and Influence`, `outliers`, `influential points`, `leverage points`, `R student`, `Cook's distance`, `DFFITS`, `DFBETAS`
 
 ***SAS Problem: Q2 (page 6-9)***
 <br>
