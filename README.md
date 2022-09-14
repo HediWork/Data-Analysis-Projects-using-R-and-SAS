@@ -14,7 +14,7 @@
 ***Course: Regression Analysis***
 
 **Skills and Tools:**
-Simple Linear Regression, Model Building, Confidence Interval, t-distribution, F-distribution, Statistical Inference, Hypothesis Testing, t-test, F-test, P-value, Least square estimators, Simple coefficient of determination: R^2, Simple correlation coefficient: r, Sum of squares, 
+`Simple Linear Regression`, `Model Building`, `Confidence Interval`, `t-distribution`, `F-distribution`, `Statistical Inference`, `Hypothesis Testing`, `t-test`, `F-test`, `P-value`, `Least square estimators`, `Simple coefficient of determination: R^2`, `Simple correlation coefficient: r`, `Sum of squares` 
 
 ***SAS Problem: Q2 (page 8-18)***
 <br>
